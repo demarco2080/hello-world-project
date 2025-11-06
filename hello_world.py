@@ -26,7 +26,7 @@ def main():
 
     # Print colorful welcome message
     print(f"\n{Colors.BOLD}{Colors.CYAN}{'=' * 50}{Colors.END}")
-    print(f"{Colors.BOLD}{Colors.GREEN}⚠️  Welcome to Hello World!  ⚠️{Colors.END}")
+    print(f"{Colors.BOLD}{Colors.GREEN}⚠️  Tony CHANGED IT!!!!  ⚠️{Colors.END}")
     print(f"{Colors.BOLD}{Colors.CYAN}{'=' * 50}{Colors.END}\n")
 
     print(f"{Colors.YELLOW}Current timestamp: {Colors.BOLD}{timestamp}{Colors.END}\n")
